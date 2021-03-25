@@ -42,3 +42,11 @@
 >> * <plaintext>
 > Filtering is done by replacing the leading < with the entity &lt;. These tags are chosen in particular as they change how HTML is interpreted in a way unique to them.  
 > 이것은 일반적으로 다른 마크다운 콘텐츠 에서 바람직하지 않다. 
+> 
+6. Fenced code blocks
+> 3개의 backticks 를 코드 앞뒤로 작성하면 코드 블럭을 만들 수 있다.
+>```
+>function test() {
+>  console.log("notice the blank line before this function?");
+>}
+>```
