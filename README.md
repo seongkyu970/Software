@@ -29,7 +29,7 @@
 4. Autolinks
 > www가 발견되고 그 뒤에 유효한 도메인이 있을 때 http는 자동으로 삽입되며 링크로 인식한다.
 >> www.github.com
-7. Disallowed Raw HTML
+5. Disallowed Raw HTML
 > GFM에서 아래와 같은 HTML 태그들은 HTML 결과를 만들 때 Filtering 된다.
 >> * <title>
 >> * <textarea>
